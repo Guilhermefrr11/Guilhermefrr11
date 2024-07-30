@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/[Guilhermefrr11])
 - 👋 Hi, I’m Gui.
 - 👀 I’m interested in Cybersecurity.
 - 🌱 I’m currently learning Systems Analysis and Development, SOC and Penetration.
