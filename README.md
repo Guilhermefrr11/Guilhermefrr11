@@ -11,3 +11,4 @@ Guilhermefrr11/Guilhermefrr11 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 ![tryhackme stats](https://raw.githubusercontent.com/<Guilhermefrr11>/<Guilhermefrr11>/master/assets/thm_propic.png)
+<script src="https://tryhackme.com/badge/3327112"></script>
