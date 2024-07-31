@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="https://instagram.com/guilhermefrr1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C71585?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-ferreira-marques-8b28b820a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0052CC?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/github/followers/{guilhermefrr11}.svg?style=social&label=Follow&maxAge=2592000"></a>
+  <img src="https://img.shields.io/github/followers/guilhermefrr11.svg?style=social&label=Follow&maxAge=2592000"></a>
   <br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermefrr11&show_icons=true&theme=radical)
