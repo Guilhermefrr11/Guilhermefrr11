@@ -80,3 +80,7 @@
 <br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&color=%2300FFFF&center=true&vCenter=true&lines=%3C%2F+With+%E2%9D%A4%EF%B8%8Ffrom+Brazil+%5C%3E)](https://git.io/typing-svg)
+
+
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<p></p><p></p>
