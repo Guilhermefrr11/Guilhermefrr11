@@ -1,7 +1,9 @@
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,41,30&height=180&section=header&text=👨‍💻%Guilhermefrr1%20%20👨‍💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <div>
 <img align="right"  style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="360px" height="270" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2200&pause=1000&color=B60EF7&width=443&height=60&lines=Ol%C3%A1+turma%2C+muito+prazer+!;Me+chamo+Guilherme+Ferreira.)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2200&pause=1000&color=B60EF7&width=443&height=60&lines=Ol%C3%A1+turma%2C+muito+prazer+!;Me+chamo+Guilherme+Ferreira." alt="Typing SVG" /></a>
+
 - Estudante de ADS no 3º semestre, focado em programação e IA.
 
 - Estagiário de TI na Metalock Brasil Ltda.
@@ -76,7 +78,7 @@
 </div>
 
 <br><br>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2200&pause=1000&color=B60EF7&width=443&height=60&lines=Ol%C3%A1+turma%2C+muito+prazer+!;Me+chamo+Guilherme+Ferreira." alt="Typing SVG" /></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&color=%2300FFFF&center=true&vCenter=true&lines=%3C%2F+With+%E2%9D%A4%EF%B8%8Ffrom+Brazil+%5C%3E)](https://git.io/typing-svg)
 
 
