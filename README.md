@@ -2,7 +2,7 @@
 <div>
 <img align="right"  style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="360px" height="270" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2200&pause=1000&color=B60EF7&width=443&height=60&lines=Ol%C3%A1+turma%2C+muito+prazer+!;Me+chamo+Guilherme+Ferreira." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3C22F7&width=443&height=60&lines=Ol%C3%A1+turma%2C+muito+prazer+!;Me+chamo+Guilherme+Ferreira." alt="Typing SVG" /></a>
 
 - Estudante de ADS no 3º semestre, focado em programação e IA.
 
