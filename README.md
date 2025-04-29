@@ -78,7 +78,6 @@
 </div>
 
 <br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2200&pause=1000&color=B60EF7&width=443&height=60&lines=Ol%C3%A1+turma%2C+muito+prazer+!;Me+chamo+Guilherme+Ferreira." alt="Typing SVG" /></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&color=%2300FFFF&center=true&vCenter=true&lines=%3C%2F+With+%E2%9D%A4%EF%B8%8Ffrom+Brazil+%5C%3E)](https://git.io/typing-svg)
 
 
