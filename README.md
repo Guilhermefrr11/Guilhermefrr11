@@ -1,4 +1,4 @@
-<p><img width=100% title="Nemonet TYP" alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3C22F7&width=443&height=60&lines=Ol%C3%A1+turma%2C+muito+prazer+!;Me+chamo+Guilherme+Ferreira."/>
+<img width=100% title="Nemonet TYP" alt="Typing SVG" src="<p>https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3C22F7&width=443&height=60&lines=Ol%C3%A1+turma%2C+muito+prazer+!;Me+chamo+Guilherme+Ferreira.</p>"/>
 <div>
 <img align="right"  style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="360px" height="270" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 
