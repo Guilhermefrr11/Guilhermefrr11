@@ -10,6 +10,17 @@
 
 - Uso diário do sistema ERP Sankhya.
 
+- Com habilidades sólidas em suporte técnico e em constante evolução na área de desenvolvimento, estou focado em transformar desafios em soluções eficientes. Atualmente, curso Análise e Desenvolvimento de Sistemas (conclusão em set/2025) e me dedico ao estudo de Java, além de possuir conhecimentos em HTML, CSS e JavaScript para ampliar minha visão full-stack.
+
+Minha experiência prática inclui:
+• Suporte Técnico - Resolução de incidentes (help desk, chamados, SLA).
+• Otimização de processos – Redução do tempo de atendimento via Jira e implementação do OpenRPort para acesso remoto seguro.
+• Versionamento e colaboração – Noções de Git e GitHub, aplicando boas práticas em projetos.
+• Gestão de bancos de dados - Desenvolvimento de queries, procedures e triggers para otimização de operações.
+• Melhoria contínua - Aplicação de metodologias ágeis para aumento de produtividade e qualidade das entregas.
+
+Objetivo: Consolidar minha carreira em TI, seja atuando em suporte avançado ou migrando para desenvolvimento, com foco em alta performance e crescimento sustentável.
+
 <h5 align="center"> Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.</h5>
 </div>
 <br><br><br>
@@ -39,7 +50,6 @@
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="sqlserver" src= "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
     <img align="center" alt="jira" src= "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </div>
@@ -64,14 +74,6 @@
 </a>
 
 <br><br><br>
-<div>
-    <table align="center">
-    <tr>
-        <td>Visitantes:</td>
-        <td><img src="https://profile-counter.glitch.me/guilhermefrr11/count.svg" alt=""/></td>
-    </tr>
-    </table>
-</div>
 
 <br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&color=%2300FFFF&center=true&vCenter=true&lines=%3C%2F+With+%E2%9D%A4%EF%B8%8Ffrom+Brazil+%5C%3E)](https://git.io/typing-svg)
