@@ -12,7 +12,7 @@
 
 - Com habilidades sólidas em suporte técnico e em constante evolução na área de desenvolvimento, estou focado em transformar desafios em soluções eficientes. Atualmente, curso Análise e Desenvolvimento de Sistemas (conclusão em set/2025) e me dedico ao estudo de Java, além de possuir conhecimentos em HTML, CSS e JavaScript para ampliar minha visão full-stack.
 
-Minha experiência prática inclui:
+Minha experiência prática inclui:<br>
 • Suporte Técnico - Resolução de incidentes (help desk, chamados, SLA).<br>
 • Otimização de processos – Redução do tempo de atendimento via Jira e implementação do OpenRPort para acesso remoto seguro.<br>
 • Versionamento e colaboração – Noções de Git e GitHub, aplicando boas práticas em projetos.<br>
